@@ -13,6 +13,7 @@
 | Luca Casonato        | LCA          | Deno           |
 | Ashley Claymore      | ACE          | Bloomberg      |
 | Richard Gibson       | RGN          | Agoric         |
+| Mark S. Miller       | MM           | Agoric         |
 | Daniel Ehrenberg     | DE           | Bloomberg      |
 | Guy Bedford          | GBD          | Fastly         |
 | Daniel Minor         | DLM          | Mozilla        |
